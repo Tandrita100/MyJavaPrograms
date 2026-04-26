@@ -1,14 +1,14 @@
-☕ Java Practice Programs
+# ☕ Java Practice Programs
 
 This repository contains basic Java programs created during the learning phase.
 
-🚀 Description
+# 🚀 Description
 
 - Covers fundamental Java concepts
 - Includes small practice programs
 - Focused on building core understanding
 
-🛠️ Topics Covered
+# 🛠️ Topics Covered
 
 - Variables and Data Types
 - Conditional Statements
@@ -16,6 +16,6 @@ This repository contains basic Java programs created during the learning phase.
 - Functions
 - Basic Object-Oriented Programming
 
-📌 Note
+# 📌 Note
 
 These programs are created for practice and learning purposes.
