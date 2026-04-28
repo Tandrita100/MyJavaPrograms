@@ -1,6 +1,6 @@
 # ☕ Java Practice Programs
 
-This repository contains basic Java programs created during the learning phase...
+This repository contains basic Java programs created during the learning phase.
 
 # 🚀 Description
 
