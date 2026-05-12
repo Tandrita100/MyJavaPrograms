@@ -19,4 +19,3 @@ This repository contains basic Java programs created during the learning phase.
 # 📌 Note
 
 These programs are created for practice and learning purposes.
-gjchvnhjk
